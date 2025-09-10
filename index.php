@@ -179,7 +179,7 @@ foreach ($all_properties as $prop): ?>
 
 </div>
 </section>
-
+// add a comment
 <!-- Reviews Section -->
 <section class="bg-gray-100 py-12">
 <div class="max-w-6xl mx-auto text-center">
